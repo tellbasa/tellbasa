@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @tellbasa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning  les API
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Salut, je suis Basa 
+Je suis intéressé par la programmation et le réseau informatique  
+J'apprends actuellement l'API et ces fonctions et son utilisation
+Je cherche d'ailleurs quelqu'un qui pourrai m'aider à mettre en place une API avec authentification en tant que client sur mon site 
+Si vous êtes intéressé contacter moi par mail btelliouine@gmail.com
 
-<!---
-tellbasa/tellbasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Dans la programation je suis en ce moment dans les APIs 
+Si ca vous intéresse je suis joignable par mail au btelliouine@gmail.com
